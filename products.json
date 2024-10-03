@@ -1,0 +1,68 @@
+[
+    {
+        "title": "iPhone 12 Pro Max",
+        "price": 1099.99,
+        "category": "mobile",
+        "rating": 4.5
+    },
+    {
+        "title": "iPhone 16 Pro Max",
+        "price": 1299.99,
+        "category": "mobile",
+        "rating": 4.8
+    },
+    {
+        "title": "Samsung Galaxy S21",
+        "price": 799.99,
+        "category": "mobile",
+        "rating": 4.3
+    },
+    {
+        "title": "Google Pixel 5",
+        "price": 699.99,
+        "category": "mobile",
+        "rating": 4.4
+    },
+    {
+        "title": "OnePlus 9 Pro",
+        "price": 969.99,
+        "category": "mobile",
+        "rating": 4.6
+    },
+    {
+        "title": "Xiaomi Mi 11",
+        "price": 749.99,
+        "category": "mobile",
+        "rating": 4.2
+    },
+    {
+        "title": "Sony Xperia 1 II",
+        "price": 1199.99,
+        "category": "mobile",
+        "rating": 4.0
+    },
+    {
+        "title": "Nokia 8.3 5G",
+        "price": 699.99,
+        "category": "mobile",
+        "rating": 4.1
+    },
+    {
+        "title": "Oppo Find X3 Pro",
+        "price": 1149.99,
+        "category": "mobile",
+        "rating": 4.5
+    },
+    {
+        "title": "Realme GT",
+        "price": 599.99,
+        "category": "mobile",
+        "rating": 4.3
+    },
+    {
+        "title": "Huawei P40 Pro",
+        "price": 899.99,
+        "category": "mobile",
+        "rating": 4.4
+    }
+]
